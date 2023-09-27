@@ -7,7 +7,7 @@
 * WP1 - Knowledge exchange and integration
   - ...
 * WP2 - Social and economic effects of fishing
-  * Task 2.1: Identification of key social and economic aspects of fisheries [repo link; e.g. https://github.com/ices-tools-dev/SEAwise_T2.1]
+  * Task 2.1: Identification of key social and economic aspects of fisheries [repo link]
   * Task 2.2: Economic and climate impacts of fishing [repo link]
   * …
 * WP3 - Ecological effects on fisheries
